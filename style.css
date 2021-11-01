@@ -57,11 +57,12 @@ nav li a{
 }
 
 .highlight{
-    background-color: #00c2ff;
+    background-color: black;
     color: white;
     text-decoration: none;
     padding: 10px;
     border-radius: 4px;
+   
 }
 
 .selected{
